@@ -1,0 +1,28 @@
+FEATURES
+// Lock/Unlock room NOTE: would have been cool but no way to know if a room is locked :P (next version if possible)
+Twitter Support
+Push notifications
+Better background during chat -> Animated flame?
+Hyper links
+Offline send message
+Increase font size
+
+
+BUGS
+Landscape issue on the search view (CAN'T RECREATE)
+
+
+PRODUCTION (Firelight)
+Submitted for review
+Final release testing
+	+ No network connection tests
+	+ Startup with no accounts
+	+ Login with bad credentials
+	+ Login with good credentials
+	+ Startup with accounts	
+	+ View room
+	+ Edit room
+	+ Post message
+	+ View transcript by date
+	+ Search transcripts
+	+ Test with no internet connectivity
